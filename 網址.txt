@@ -1,0 +1,1 @@
+﻿https://api.openweathermap.org/data/2.5/forecast?q=London,us&appid=0d45086c06b34088a8d460ae72dc3f75&lang=zh_tw

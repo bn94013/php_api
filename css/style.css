@@ -1,0 +1,12 @@
+.backImage{
+    background-image: url("../images/backimg1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius: 0;
+    height: 100vh;
+    margin-bottom: 0;
+}
+
+.alert{
+    display: none;
+}
